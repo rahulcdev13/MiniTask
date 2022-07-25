@@ -32,7 +32,7 @@ const NetflixSigningForm = () => {
                 </div> 
             </div>
             <div className='margintopsss'>
-            <br/><br/><br/><br/><br/> 
+            <br/><br/> 
             </div>
             
         </>

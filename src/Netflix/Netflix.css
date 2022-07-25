@@ -53,9 +53,19 @@
     font-family: Arial; 
     margin-top: -25px; 
 }  
+.logo{
+    text-decoration: none;
+    color: red;
+}
+.logo:hover{
+    color: red;
+}
  .margintop{ 
     background-color: rgba(0,0,0,0.5);
     /* margin-bottom: -25px; */
+ }
+ .backimagesss{
+    background-color: rgba(0,0,0,0.5);
  }
  .margintopsss{
     background-color: rgba(0,0,0,0.5);
