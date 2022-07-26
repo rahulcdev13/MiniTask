@@ -1,0 +1,70 @@
+
+.loginpage{
+    justify-content: center;
+    margin: 32px auto 0;
+    width: 350px;
+    padding-bottom: 32px;
+    width: 100%;
+}
+.loginForm{
+    border: 1px solid rgb(214, 209, 209);
+    padding: 40px; 
+}  
+.hrtag{
+    border: 0.5px solid rgb(163, 157, 157);
+    width: 41%; 
+} 
+.inputtag{
+    width: 250px;
+    background-color: rgb(245, 241, 241);
+    border: 0.5px solid rgb(219, 216, 216);
+    padding: 10px;
+}
+.logo{
+    text-align: center; 
+}
+.facebook{
+    font-weight: bold;
+    text-align: center;
+    color: #4267B2;
+    font-size: 15px;
+}
+.password{
+    text-align: center; 
+    font-size: 13px; 
+}
+.signupage{
+    border: 1px solid rgb(214, 209, 209);  
+    padding: 10px; 
+    text-align: center;
+}
+.gettheapp{
+    text-align: center;
+    font-weight: bold;
+    margin-top: 10px;
+}
+.apk{
+    width: 150px;
+    height: 50px;
+    padding: 3px;
+}
+.footerName{
+font-size: 12px;
+letter-spacing: 2px; 
+text-align: center;
+color: gray;
+font-family: Arial, Helvetica, sans-serif;
+}
+.slectlang{
+    border: 0px solid white;
+    margin-right: 10px;
+    color: gray;
+}
+.footer{
+    margin-top: 100px;
+   background-color: white;
+}
+.signup{
+    text-decoration: none;
+    font-weight: bold;
+}
