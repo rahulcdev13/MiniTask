@@ -26,7 +26,7 @@ const InstagramFooter = () => {
           <p className='footerName'>
             <select className='slectlang'>
               <option>English</option>
-              <option>Hindi</option> 
+              <option>Hindi</option>
             </select>
             © Instagram Design By Rahul Chavan @ 2022</p>
         </div>

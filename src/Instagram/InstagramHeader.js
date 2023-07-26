@@ -5,5 +5,4 @@ const InstagramHeader = () => {
     <div>InstagramHeader</div>
   )
 }
-
 export default InstagramHeader

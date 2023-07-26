@@ -1,11 +1,10 @@
 import React from 'react'
-
 const NetflixSigningForm = () => {
     return (
-        <> 
+        <>
             <div className='margintop'>
                 <div className='Signform'>
-                        <h2 style={{ fontWeight: "bold" }}> Sign In</h2><br />
+                    <h2 style={{ fontWeight: "bold" }}> Sign In</h2><br />
                     <form>
                         <div>
                             <input className='w-100 p-3' type="text" placeholder='Email or phone number' /><br />
@@ -27,16 +26,15 @@ const NetflixSigningForm = () => {
                         <div className=' text-secondary'>
                             <p>New to Netflix? <span style={{ color: "white" }}>Sign up now.</span></p>
                             <p>This page is protected by Google reCAPTCHA to ensure you're not a bot.<span style={{ color: "blue" }}> Learn more.</span></p>
-                        </div><br/><br/>
+                        </div><br /><br />
                     </form>
-                </div> 
+                </div>
             </div>
             <div className='margintopsss'>
-            <br/><br/> 
+                <br /><br />
             </div>
-            
+
         </>
     )
 }
-
 export default NetflixSigningForm

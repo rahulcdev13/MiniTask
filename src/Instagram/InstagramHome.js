@@ -17,7 +17,7 @@ const InstagramHome = () => {
                         </div>
                         <input className='inputtag' type="text" placeholder="Phone number, username, or email" /><br />
                         <input className='inputtag mt-2' type="password" placeholder="password" /><br />
-                        <button class="btn btn-primary mt-4 w-100">Log In</button>
+                        <button className="btn btn-primary mt-4 w-100">Log In</button>
                         <div className='d-flex justify-content-center align-items-center mt-4'>
                             <hr className='hrtag'></hr>
                             &nbsp;<span> OR </span>&nbsp;

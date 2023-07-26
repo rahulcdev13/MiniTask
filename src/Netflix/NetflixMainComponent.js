@@ -11,7 +11,6 @@ const NetflixMainComponent = () => {
                     <h3>Watch anywhere. Cancel anytime.</h3><br/>
                     <NetflixRegisterComponent />
                 </div>
-                
             </div>
         </>
     )

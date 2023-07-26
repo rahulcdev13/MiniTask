@@ -9,6 +9,10 @@ import NetflixHomeSection5 from './NetflixHomeSection5'
 import NetflixHomeSection6 from './NetflixHomeSection6'
 import NetflixFooter from './NetflixFooter'
 
+let sectionCss = {
+border: "4px solid rgb(76, 72, 72)", 
+marginTop: "0px" 
+}
 
 const NetflixIndexComponent = () => {
     return (
@@ -22,17 +26,17 @@ const NetflixIndexComponent = () => {
                     <NetflixMainComponent />
                 </div>
             </div>
-            <hr style={{ border: "4px solid rgb(76, 72, 72)", marginTop: "0px" }}></hr>
+            <hr style={sectionCss}></hr>
             <NetflixHomeSection2 />
-            <hr style={{ border: "4px solid rgb(76, 72, 72)", marginTop: "0px" }}></hr>
+            <hr style={sectionCss}></hr>
             <NetflixHomeSection3 />
-            <hr style={{ border: "4px solid rgb(76, 72, 72)", marginTop: "0px" }}></hr>
+            <hr style={sectionCss}></hr>
             <NetflixHomeSection4 />
-            <hr style={{ border: "4px solid rgb(76, 72, 72)", marginTop: "0px" }}></hr>
+            <hr style={sectionCss}></hr>
             <NetflixHomeSection5 />
-            <hr style={{ border: "4px solid rgb(76, 72, 72)", marginTop: "0px" }}></hr>
+            <hr style={sectionCss}></hr>
             <NetflixHomeSection6 />
-            <hr style={{ border: "4px solid rgb(76, 72, 72)", marginTop: "0px" }}></hr>
+            <hr style={sectionCss}></hr>
             <NetflixFooter />
         </>
     )
